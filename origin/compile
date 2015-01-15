@@ -1,0 +1,30 @@
+#!/usr/bin/env sh
+
+# compile {filename} [{filename} ...]
+# compile all
+
+compile_file () {
+    target=$1
+    printf "Compiling $target ... "
+    cat $target | sed 's/<x>/█/g' > ../$target
+    echo "Done"
+}
+
+while [ $# -gt 0 ]; do
+    target=$1
+
+    if [ "=$target" = "=" ]; then
+        echo "Empty target, abort"
+        exit
+    fi
+
+    if [ "=$1" = "=all" ]; then
+        for i in $(ls *.rst); do
+            compile_file $i
+        done
+        exit
+    fi
+
+    compile_file $target
+    shift
+done
