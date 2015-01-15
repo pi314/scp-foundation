@@ -10,6 +10,11 @@ compile_file () {
     echo "Done"
 }
 
+if [ $# -eq 0 ]; then
+    echo "Empty target, abort"
+    exit
+fi
+
 while [ $# -gt 0 ]; do
     target=$1
 
@@ -18,9 +23,10 @@ while [ $# -gt 0 ]; do
         exit
     fi
 
-    if [ "=$1" = "=all" ]; then
+    if [ "=$target" = "=all" ]; then
         for i in $(ls *.rst); do
-            if [ "$1" != "template.rst" ]; then
+            echo $i
+            if [ "$i" != "template.rst" ]; then
                 compile_file $i
             fi
         done
