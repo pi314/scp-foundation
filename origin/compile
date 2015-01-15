@@ -20,7 +20,9 @@ while [ $# -gt 0 ]; do
 
     if [ "=$1" = "=all" ]; then
         for i in $(ls *.rst); do
-            compile_file $i
+            if [ "$1" != "template.rst" ]; then
+                compile_file $i
+            fi
         done
         exit
     fi
