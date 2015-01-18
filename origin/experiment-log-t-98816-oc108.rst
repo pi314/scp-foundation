@@ -2,7 +2,7 @@
 實驗日誌 T-98816-OC108/682
 ==========================
 
-`測試記錄 T-98816-OC108/682 <http://www.scp-wiki.net/experiment-log-t-98816-oc108-682>`_
+`SCP-682 <scp-682.rst>`_ > `測試記錄 T-98816-OC108/682 <http://www.scp-wiki.net/experiment-log-t-98816-oc108-682>`_
 
 對SCP-682的交插抹殺試驗
 
