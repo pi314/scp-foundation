@@ -2,7 +2,7 @@
 SCP 682
 =======
 
-**項目編號** ：SCP-682
+**項目編號** ： `SCP-682 <http://www.scp-wiki.net/scp-682>`_
 
 **項目等級** ：Keter
 
