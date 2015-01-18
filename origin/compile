@@ -10,8 +10,18 @@ compile_file () {
     echo "Done"
 }
 
+compile_all () {
+    for i in $(ls *.rst); do
+        echo $i
+        if [ "$i" != "template.rst" ]; then
+            compile_file $i
+        fi
+    done
+    exit
+}
+
 if [ $# -eq 0 ]; then
-    echo "Empty target, abort"
+    compile_all
     exit
 fi
 
@@ -24,13 +34,7 @@ while [ $# -gt 0 ]; do
     fi
 
     if [ "=$target" = "=all" ]; then
-        for i in $(ls *.rst); do
-            echo $i
-            if [ "$i" != "template.rst" ]; then
-                compile_file $i
-            fi
-        done
-        exit
+        compile_all
     fi
 
     compile_file $target
