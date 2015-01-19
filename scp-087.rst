@@ -2,6 +2,10 @@
 `SCP-087 <http://www.scp-wiki.net/scp-087>`_
 ============================================
 
+..  image:: http://scpfoundation.org/087/rf.php
+
+*圖片 A: 從第一次探索的影象中取出的一個靜止畫格*
+
 **項目編號** ：SCP-087
 
 **項目等級** ：Euclid
