@@ -97,3 +97,6 @@ Gear 博士也建議使用 `SCP-182 <scp-182.rst>`_ 來嘗試與 SCP-682 進行�
 
 **附錄 682-F** ： `抹殺實驗記錄-T-98816-OC108-682 <experiment-log-t-98816-oc108.rst>`_
 
+--------
+
+`SCP 列表 <index.rst>`_
