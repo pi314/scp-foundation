@@ -3,11 +3,26 @@
 # compile {filename} [{filename} ...]
 # compile all
 
+check_dirty () {
+    a="$(stat -t "%y%m%d%H%M%S" -f "%Sm" $1)"
+    b="$(stat -t "%y%m%d%H%M%S" -f "%Sm" "../$1")"
+    if [ $a -ge $b ]; then
+        echo 1
+        return 1
+    fi
+    echo 0
+    return 0
+}
+
 compile_file () {
     target=$1
-    printf "Compiling $target ... "
-    cat $target | sed 's/<x>/█/g' > ../$target
-    echo "Done"
+    if [ $(check_dirty $target) -eq 1 ]; then
+        printf "Compiling $target ... "
+        cat $target | sed 's/<x>/█/g' > ../$target
+        echo "Done"
+    else
+        skip_file $target
+    fi
 }
 
 skip_file () {
