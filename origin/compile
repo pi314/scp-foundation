@@ -10,10 +10,17 @@ compile_file () {
     echo "Done"
 }
 
+skip_file () {
+    echo "Skip $1"
+}
+
 compile_all () {
     for i in $(ls *.rst); do
-        echo $i
-        if [ "$i" != "template.rst" ]; then
+        if [ "$i" == "template.rst" ]; then
+            skip_file $i
+        elif [ "$i" == "terms.rst" ]; then
+            skip_file $i
+        else
             compile_file $i
         fi
     done
