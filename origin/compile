@@ -4,9 +4,7 @@
 # compile all
 
 check_dirty () {
-    a="$(stat -t "%y%m%d%H%M%S" -f "%Sm" $1)"
-    b="$(stat -t "%y%m%d%H%M%S" -f "%Sm" "../$1")"
-    if [ $a -ge $b ]; then
+    if [ $1 -nt ../$1 ]; then
         echo 1
         return 1
     fi
