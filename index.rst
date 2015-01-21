@@ -3,7 +3,7 @@ SCP 列表
 ========
 
 * SCP-017 - Shadow Person / 影男
-* SCP-026 - Afterschool Retention / 課後扣留
+* `SCP-026 <scp-026.rst>`_ - Afterschool Retention / 課後扣留
 * SCP-053 - Young Girl / 小女孩
 * SCP-061 - Auditory Mind Control / 聽覺心靈控制
 * SCP-063 - "The World's Best TothBrush" / "世界上最強的呀刷"
