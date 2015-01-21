@@ -7,6 +7,8 @@
 =================== ============
  英文原文            翻譯用語
 =================== ============
+ [REDACTED]          [資料修改]
+ [DATA EXPUNGED]     [資料刪除]
  Mobile Task Force   機動特遣隊
  Agent               特工
  Interview Log       採訪紀錄
