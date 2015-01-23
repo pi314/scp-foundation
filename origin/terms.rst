@@ -13,4 +13,5 @@
  Agent               特工
  Interview Log       採訪紀錄
  Site                站點
+ Note                附註
 =================== ============
