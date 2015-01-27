@@ -19,6 +19,7 @@ SCP 列表
 * SCP-272 - An Old Iron Nail / 一根老鐵釘
 * `SCP-409 <scp-409.rst>`_ - Contagious Crystal / 感染水晶
 * SCP-500 - Panacea / 萬能藥
+* SCP-504 - Critical Tomatoes / 苛責的蕃茄
 * SCP-524 - Walter the Omnivorous Rabbit / 什麼都吃的兔子
 * SCP-536 - Physical Law Testing Chamber / 物理定律實驗室
 * SCP-662 - Butler's Hand Bell / 管家的手鈴
