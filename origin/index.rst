@@ -30,6 +30,7 @@ SCP 列表
 * SCP-743 - A Chocolate Fountain / 巧克力噴泉
 * SCP-807 - Heart Attack on a Plate / 心臟病盤子
 * SCP-826 - Draws You into the Book / 書中巡禮
+* SCP-970 - The Recursive Room / 無窮遞迴的房間
 * SCP-914 - The Clockworks / 發條鐘
 * SCP-1898 - Non-Euclidian Playsets / 非歐幾里得套裝玩具
 * SCP-1947 - Emission Sphere / 發出輻射的球體
