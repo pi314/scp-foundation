@@ -25,7 +25,7 @@ SCP 列表
 * SCP-536 - Physical Law Testing Chamber / 物理定律實驗室
 * SCP-662 - Butler's Hand Bell / 管家的手鈴
 * `SCP-682 <scp-682.rst>`_ - Hard-to-Destroy Reptile / 難以殺死的巨蜥
-* SCP-689 - Haunter in the Dark / 黑暗中的鬼
+* `SCP-689 <scp-689.rst>`_ - Haunter in the Dark / 黑暗中的鬼
 * SCP-738 - The Devil's Deal / 惡魔的交易
 * SCP-743 - A Chocolate Fountain / 巧克力噴泉
 * SCP-807 - Heart Attack on a Plate / 心臟病盤子
