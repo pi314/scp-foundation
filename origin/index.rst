@@ -15,12 +15,14 @@ SCP 列表
 * SCP-096 - The "Shy Guy" / 不能被看到臉
 * SCP-123 - Contained Miniature Black Hole / 微型可控黑洞
 * SCP-162 - Ball of Sharp / 刀山地獄球
-* SCP-173 - The Sculpture - **The Original** / 雕像 - **初始之作**
+* `SCP-173 <scp-173.rst>`_ - The Sculpture - **The Original** / 雕像 - **初始之作**
 * SCP-184 - The Architect / 建築師
 * SCP-261 - Pan-Dimensional Vending / 泛用次元販賣機
 * SCP-272 - An Old Iron Nail / 一根老鐵釘
 * `SCP-409 <scp-409.rst>`_ - Contagious Crystal / 感染水晶
-* SCP-500 - Panacea / 萬能藥
+* SCP-427 - Lovecraftian Locket / 洛夫克拉夫特墜飾
+* SCP-447 - Ball of Green Slime / 綠色黏液球
+* `SCP-500 <scp-500.rst>`_ - Panacea / 萬能藥
 * SCP-504 - Critical Tomatoes / 苛責的蕃茄
 * SCP-524 - Walter the Omnivorous Rabbit / 什麼都吃的兔子
 * SCP-536 - Physical Law Testing Chamber / 物理定律實驗室
@@ -37,3 +39,4 @@ SCP 列表
 * SCP-1947 - Emission Sphere / 發出輻射的球體
 
 * Dr. Clef / Clef博士
+* Olympia Project / 奧林匹亞計畫
