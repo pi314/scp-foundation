@@ -17,5 +17,6 @@
  Addendum            附件
  chamber             收容室
  termination         抹殺/處決
+ command personnel   指揮人員
 =================== ============
 
