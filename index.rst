@@ -13,7 +13,7 @@ SCP 列表
 * SCP-076 - "Able" / "亞伯"
 * `SCP-087 <scp-087.rst>`_ - The Stairwell / 樓梯井
 * SCP-096 - The "Shy Guy" / 不能被看到臉
-* SCP-123 - Contained Miniature Black Hole / 微型可控黑洞
+* `SCP-123 <scp-123.rst>`_ - Contained Miniature Black Hole / 微型可控黑洞
 * SCP-162 - Ball of Sharp / 刀山地獄球
 * `SCP-173 <scp-173.rst>`_ - The Sculpture - **The Original** / 雕像 - **初始之作**
 * SCP-184 - The Architect / 建築師
