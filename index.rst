@@ -2,7 +2,7 @@
 SCP 列表
 ========
 
-* SCP-017 - Shadow Person / 影男
+* `SCP-017 <scp-017.rst>`_ - Shadow Person / 影男
 * `SCP-026 <scp-026.rst>`_ - Afterschool Retention / 課後扣留
 * SCP-038 - The Everything Tree / 萬象樹
 * SCP-053 - Young Girl / 小女孩
