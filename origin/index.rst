@@ -19,6 +19,7 @@ SCP 列表
 * SCP-184 - The Architect / 建築師
 * SCP-261 - Pan-Dimensional Vending / 泛用次元販賣機
 * SCP-272 - An Old Iron Nail / 一根老鐵釘
+* SCP-280 - Eyes in the Dark / 暗影中的獵手之眼
 * `SCP-409 <scp-409.rst>`_ - Contagious Crystal / 感染水晶
 * SCP-427 - Lovecraftian Locket / 洛夫克拉夫特墜飾
 * SCP-447 - Ball of Green Slime / 綠色黏液球
