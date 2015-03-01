@@ -22,7 +22,7 @@ SCP 列表
 * SCP-272 - An Old Iron Nail / 一根老鐵釘
 * `SCP-280 <scp-280.rst>`_ - Eyes in the Dark / 暗影中的獵手之眼
 * `SCP-409 <scp-409.rst>`_ - Contagious Crystal / 感染水晶
-* SCP-427 - Lovecraftian Locket / 洛夫克拉夫特墜飾
+* `SCP-427 <scp-427.rst>`_ - Lovecraftian Locket / 洛夫克拉夫特墜飾
 * SCP-447 - Ball of Green Slime / 綠色黏液球
 * `SCP-500 <scp-500.rst>`_ - Panacea / 萬能藥
 * `SCP-504 <scp-504.rst>`_ - Critical Tomatoes / 苛責的蕃茄
