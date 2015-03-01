@@ -18,5 +18,6 @@
  chamber             收容室
  termination         抹殺/處決
  command personnel   指揮人員
+ KIA                 殉職
 =================== ============
 
