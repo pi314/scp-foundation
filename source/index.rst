@@ -11,7 +11,7 @@ SCP 列表
 * SCP-072 - The Foot of the Bed / 床腳
 * SCP-073 - "Cain" / "該隱"
 * SCP-076 - "Able" / "亞伯"
-* SCP-079 - Old AI / 舊 AI
+* `SCP-079 <scp-079.rst>`_ - Old AI / 舊 AI
 * `SCP-087 <scp-087.rst>`_ - The Stairwell / 樓梯井
 * SCP-096 - The "Shy Guy" / 不能被看到臉
 * `SCP-123 <scp-123.rst>`_ - Contained Miniature Black Hole / 微型可控黑洞
