@@ -14,6 +14,10 @@ SCP 基金會有 `簡體中文站 <http://www.scp-wiki-cn.org/>`_ ，但我習�
 網路上可以找得到一些繁體中文的翻譯，但翻譯的量實在比不上簡體中文站，有許多我很喜歡的 SCP 文章沒有被翻譯。
 
 * http://wyanepower01.blogspot.tw/
+* http://blog.xuite.net/hammerson2034/wretch
+* http://zh.moegirl.org/Mainpage
+* （簡體） http://zhan.renren.com/scpfoundation?tagId=874770&from=template&checked=true
+* （簡體） http://scpfoundation.123ubb.com/
 
 `有個很像官方的繁體中文站 <http://scp-tw.wikidot.com/>`_ ，我寄了信去申請編輯權限卻沒有得到回應，推測是完全停擺了。
 
