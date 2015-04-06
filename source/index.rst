@@ -27,7 +27,7 @@ SCP 列表
 * `SCP-500 <scp-500.rst>`_ - Panacea / 萬能藥
 * `SCP-504 <scp-504.rst>`_ - Critical Tomatoes / 苛責的蕃茄
 * SCP-524 - Walter the Omnivorous Rabbit / 什麼都吃的兔子
-* SCP-536 - Physical Law Testing Chamber / 物理定律實驗室
+* `SCP-536 <scp-536.rst>`_ - Physical Law Testing Chamber / 物理定律實驗室
 * SCP-662 - Butler's Hand Bell / 管家的手鈴
 * `SCP-682 <scp-682.rst>`_ - Hard-to-Destroy Reptile / 難以殺死的巨蜥
 * `SCP-689 <scp-689.rst>`_ - Haunter in the Dark / 黑暗中的鬼
