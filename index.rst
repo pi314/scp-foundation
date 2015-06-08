@@ -17,7 +17,7 @@ SCP 列表
 * `SCP-123 <scp-123.rst>`_ - Contained Miniature Black Hole / 微型可控黑洞
 * `SCP-162 <scp-162.rst>`_ - Ball of Sharp / 刀山地獄球
 * `SCP-173 <scp-173.rst>`_ - The Sculpture - **The Original** / 雕像 - **初始之作**
-* SCP-184 - The Architect / 建築師
+* `SCP-184 <scp-184.rst>`_ - The Architect / 建築師
 * SCP-261 - Pan-Dimensional Vending / 泛用次元販賣機
 * SCP-272 - An Old Iron Nail / 一根老鐵釘
 * `SCP-280 <scp-280.rst>`_ - Eyes in the Dark / 暗影中的獵手之眼
@@ -42,3 +42,4 @@ SCP 列表
 
 * Dr. Clef / Clef博士
 * Olympia Project / 奧林匹亞計畫
+
