@@ -33,7 +33,7 @@ SCP 列表
 * `SCP-689 <scp-689.rst>`_ - Haunter in the Dark / 黑暗中的鬼
 * SCP-738 - The Devil's Deal / 惡魔的交易
 * SCP-743 - A Chocolate Fountain / 巧克力噴泉
-* SCP-807 - Heart Attack on a Plate / 心臟病盤子
+* `SCP-807 <scp-807.rst>`_ - Heart Attack on a Plate / 心臟病盤子
 * SCP-826 - Draws You into the Book / 書中巡禮
 * SCP-970 - The Recursive Room / 無窮遞迴的房間
 * SCP-914 - The Clockworks / 發條鐘
