@@ -7,7 +7,7 @@ SCP 列表
 * `SCP-038 <scp-038.rst>`_ - The Everything Tree / 萬象樹
 * SCP-053 - Young Girl / 小女孩
 * SCP-061 - Auditory Mind Control / 聽覺心靈控制
-* SCP-063 - "The World's Best TothBrush" / "世界上最強的呀刷"
+* `SCP-063 <scp-063.rst>`_ - "The World's Best TothBrush" / "世界上最強的呀刷"
 * SCP-072 - The Foot of the Bed / 床腳
 * SCP-073 - "Cain" / "該隱"
 * SCP-076 - "Able" / "亞伯"
