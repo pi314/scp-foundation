@@ -19,7 +19,7 @@ SCP 列表
 * `SCP-173 <scp-173.rst>`_ - The Sculpture - **The Original** / 雕像 - **初始之作**
 * `SCP-184 <scp-184.rst>`_ - The Architect / 建築師
 * SCP-261 - Pan-Dimensional Vending / 泛用次元販賣機
-* SCP-272 - An Old Iron Nail / 一根老鐵釘
+* `SCP-272 <scp-272.rst>`_ - An Old Iron Nail / 一根老鐵釘
 * `SCP-280 <scp-280.rst>`_ - Eyes in the Dark / 暗影中的獵手之眼
 * `SCP-409 <scp-409.rst>`_ - Contagious Crystal / 感染水晶
 * `SCP-427 <scp-427.rst>`_ - Lovecraftian Locket / 洛夫克拉夫特墜飾
