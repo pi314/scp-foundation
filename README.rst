@@ -25,7 +25,7 @@ SCP 基金會有 `簡體中文站 <http://www.scp-wiki-cn.org/>`_ ，但我習�
 
 Github 對多媒體的支援沒有像 wiki 那麼有彈性，例如圖片沒辦法置右。為了不讓它們影響到文章的品質，我把它們都移除了，音訊、圖片等資源可以去原文站取得。
 
-`從這裡開始吧 <index.rst>`_ 。
+`從這裡開始吧 <articles/index.rst>`_ 。
 
 Cychih, 20150115 @ NCTU
 
