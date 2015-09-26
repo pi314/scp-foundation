@@ -3,6 +3,7 @@ SCP 列表
 ========
 
 * `SCP-017 <scp-017.rst>`_ - Shadow Person / 影男
+* `SCP-018 <scp-018.rst>`_ - Super Ball / 超級彈力球
 * `SCP-026 <scp-026.rst>`_ - Afterschool Retention / 課後扣留
 * `SCP-038 <scp-038.rst>`_ - The Everything Tree / 萬象樹
 * SCP-053 - Young Girl / 小女孩
