@@ -2,6 +2,7 @@
 SCP 列表
 ========
 
+* `SCP-006 <scp-006.rst>`_ - Fountain of Youth / 青春之泉
 * `SCP-017 <scp-017.rst>`_ - Shadow Person / 影男
 * `SCP-018 <scp-018.rst>`_ - Super Ball / 超級彈力球
 * `SCP-026 <scp-026.rst>`_ - Afterschool Retention / 課後扣留

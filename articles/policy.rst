@@ -22,17 +22,18 @@
 =================== ============
  [REDACTED]          〔資料修改〕
  [DATA EXPUNGED]     〔資料刪除〕
- Mobile Task Force   機動特遣隊
- Agent               特工
- Interview Log       採訪紀錄
- Site                站點
- Note                附註
  Addendum            附件
- chamber             收容室
- termination         抹殺/處決
- command personnel   指揮人員
+ Agent               特工
+ Chamber             收容室
+ Clearance           權限
+ Command Personnel   指揮人員
+ Interview Log       採訪紀錄
  KIA                 殉職
- memo                紀錄
+ Memo                紀錄
+ Mobile Task Force   機動特遣隊
+ Note                附註
+ Overseer            監察員
  Recovery Log        回收紀錄
+ Site                站點
+ Termination         抹殺/處決
 =================== ============
-
