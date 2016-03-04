@@ -23,6 +23,7 @@ SCP 列表
 * SCP-261 - Pan-Dimensional Vending / 泛用次元販賣機
 * `SCP-272 <scp-272.rst>`_ - An Old Iron Nail / 一根老鐵釘
 * `SCP-280 <scp-280.rst>`_ - Eyes in the Dark / 暗影中的獵手之眼
+* `SCP-348 <scp-348.rst>`_ - A gift from dad / 來自父親的禮物
 * `SCP-409 <scp-409.rst>`_ - Contagious Crystal / 感染水晶
 * `SCP-427 <scp-427.rst>`_ - Lovecraftian Locket / 洛夫克拉夫特墜飾
 * SCP-447 - Ball of Green Slime / 綠色黏液球
