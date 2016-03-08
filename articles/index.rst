@@ -17,6 +17,7 @@ SCP 列表
 * `SCP-087 <scp-087.rst>`_ - The Stairwell / 樓梯井
 * `SCP-096 <scp-096.rst>`_ - The "Shy Guy" / "羞澀的人"
 * `SCP-123 <scp-123.rst>`_ - Contained Miniature Black Hole / 微型可控黑洞
+* `SCP-143 <scp-143.rst>`_ - The Bladewood Grove / 刃木之森
 * `SCP-162 <scp-162.rst>`_ - Ball of Sharp / 刀山地獄球
 * `SCP-173 <scp-173.rst>`_ - The Sculpture - **The Original** / 雕像 - **初始之作**
 * `SCP-184 <scp-184.rst>`_ - The Architect / 建築師
