@@ -20,13 +20,12 @@
 =================== ============
  英文原文            翻譯用語
 =================== ============
- [REDACTED]          〔資料修改〕
- [DATA EXPUNGED]     〔資料刪除〕
  Addendum            附件
  Agent               特工
  Chamber             收容室
  Clearance           權限
  Command Personnel   指揮人員
+ Incident            事故
  Interview Log       採訪紀錄
  KIA                 殉職
  Memo                紀錄
@@ -36,4 +35,6 @@
  Recovery Log        回收紀錄
  Site                站點
  Termination         抹殺/處決
+ [DATA EXPUNGED]     〔資料刪除〕
+ [REDACTED]          〔資料修改〕
 =================== ============
