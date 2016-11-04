@@ -22,6 +22,7 @@ SCP 列表
 * `SCP-162 <scp-162.rst>`_ - Ball of Sharp / 刀山地獄球
 * `SCP-173 <scp-173.rst>`_ - The Sculpture - **The Original** / 雕像 - **初始之作**
 * `SCP-184 <scp-184.rst>`_ - The Architect / 建築師
+* `SCP-248 <scp-248.rst>`_ - 110%
 * SCP-261 - Pan-Dimensional Vending / 泛用次元販賣機
 * `SCP-272 <scp-272.rst>`_ - An Old Iron Nail / 一根老鐵釘
 * `SCP-280 <scp-280.rst>`_ - Eyes in the Dark / 暗影中的獵手之眼
