@@ -11,7 +11,7 @@ SCP 列表
 * `SCP-061 <scp-061.rst>`_ - Auditory Mind Control / 聽覺心靈控制
 * `SCP-063 <scp-063.rst>`_ - "The World's Best TothBrush" / "世界上最強的呀刷"
 * SCP-072 - The Foot of the Bed / 床腳
-* SCP-073 - "Cain" / "該隱"
+* `SCP-073 <scp-073.rst>`_ - "Cain" / "該隱"
 * SCP-076 - "Able" / "亞伯"
 * `SCP-079 <scp-079.rst>`_ - Old AI / 舊 AI
 * `SCP-087 <scp-087.rst>`_ - The Stairwell / 樓梯井
