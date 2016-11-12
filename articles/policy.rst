@@ -21,10 +21,12 @@
  英文原文            翻譯用語
 =================== ============
  Addendum            附件
+ Additional          附加
  Agent               特工
  Chamber             收容室
  Clearance           權限
  Command Personnel   指揮人員
+ Commander           指揮官
  Incident            事故
  Interview Log       採訪紀錄
  KIA                 殉職
@@ -32,6 +34,7 @@
  Mobile Task Force   機動特遣隊
  Note                附註
  Overseer            監察員
+ Protocol            協定
  Recovery Log        回收紀錄
  Site                站點
  Termination         抹殺/處決
