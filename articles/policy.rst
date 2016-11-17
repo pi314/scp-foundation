@@ -38,6 +38,7 @@
  Recovery Log        回收紀錄
  Site                站點
  Termination         抹殺/處決
+ Transcript          文字記錄
  [DATA EXPUNGED]     〔資料刪除〕
  [REDACTED]          〔資料修改〕
 =================== ============
