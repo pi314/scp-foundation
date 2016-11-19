@@ -53,6 +53,7 @@ SCP 列表
 * SCP-914 - The Clockworks / 發條鐘
 * SCP-1898 - Non-Euclidian Playsets / 非歐幾里得套裝玩具
 * SCP-1947 - Emission Sphere / 發出輻射的球體
+* `SCP-2950 <scp-2950.rst>`_ - Just A Chair / 只是張椅子
 
 * Dr. Clef / Clef博士
 * Olympia Project / 奧林匹亞計畫
