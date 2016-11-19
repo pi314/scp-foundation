@@ -7,6 +7,7 @@ SCP 列表
 * `SCP-018 <scp-018.rst>`_ - Super Ball / 超級彈力球
 * `SCP-026 <scp-026.rst>`_ - Afterschool Retention / 課後扣留
 * `SCP-038 <scp-038.rst>`_ - The Everything Tree / 萬象樹
+* `SCP-048 <scp-048.rst>`_ - The Cursed SCP Number / 被詛咒的 SCP 編號
 * `SCP-053 <scp-053.rst>`_ - Young Girl / 小女孩
 * `SCP-061 <scp-061.rst>`_ - Auditory Mind Control / 聽覺心靈控制
 * `SCP-063 <scp-063.rst>`_ - "The World's Best TothBrush" / "世界上最強的呀刷"
