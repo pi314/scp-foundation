@@ -9,6 +9,7 @@ SCP 列表
 * `SCP-038 <scp-038.rst>`_ - The Everything Tree / 萬象樹
 * `SCP-048 <scp-048.rst>`_ - The Cursed SCP Number / 被詛咒的 SCP 編號
 * `SCP-053 <scp-053.rst>`_ - Young Girl / 小女孩
+* `SCP-055 <scp-055.rst>`_ - [Unknown] / 〔未知〕
 * `SCP-061 <scp-061.rst>`_ - Auditory Mind Control / 聽覺心靈控制
 * `SCP-063 <scp-063.rst>`_ - "The World's Best TothBrush" / "世界上最強的呀刷"
 * SCP-072 - The Foot of the Bed / 床腳
