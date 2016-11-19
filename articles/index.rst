@@ -40,6 +40,7 @@ SCP 列表
 * `SCP-500 <scp-500.rst>`_ - Panacea / 萬能藥
 * `SCP-504 <scp-504.rst>`_ - Critical Tomatoes / 苛責的蕃茄
 * SCP-524 - Walter the Omnivorous Rabbit / 什麼都吃的兔子
+* `SCP-529 <scp-529.rst>`_ - Josie the Half-Cat / 半貓 Josie
 * `SCP-536 <scp-536.rst>`_ - Physical Law Testing Chamber / 物理定律實驗室
 * `SCP-662 <scp-662.rst>`_ - Butler's Hand Bell / 管家的手鈴
 * `SCP-682 <scp-682.rst>`_ - Hard-to-Destroy Reptile / 難以殺死的巨蜥
