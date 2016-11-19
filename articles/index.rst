@@ -28,6 +28,7 @@ SCP 列表
 * `SCP-248 <scp-248.rst>`_ - 110%
 * SCP-261 - Pan-Dimensional Vending / 泛用次元販賣機
 * `SCP-272 <scp-272.rst>`_ - An Old Iron Nail / 一根老鐵釘
+* `SCP-294 <scp-294.rst>`_ - The Coffee Machine / 咖啡機
 * `SCP-280 <scp-280.rst>`_ - Eyes in the Dark / 暗影中的獵手之眼
 * `SCP-348 <scp-348.rst>`_ - A gift from dad / 來自父親的禮物
 * `SCP-402 <scp-402.rst>`_ - Obsidian Absorber / 吸水黑曜石
