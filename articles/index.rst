@@ -12,7 +12,7 @@ SCP 列表
 * `SCP-055 <scp-055.rst>`_ - [Unknown] / 〔未知〕
 * `SCP-061 <scp-061.rst>`_ - Auditory Mind Control / 聽覺心靈控制
 * `SCP-063 <scp-063.rst>`_ - "The World's Best TothBrush" / "世界上最強的呀刷"
-* SCP-072 - The Foot of the Bed / 床腳
+* `SCP-072 <scp-072.rst>`_ - The Foot of the Bed / 床腳
 * `SCP-073 <scp-073.rst>`_ - "Cain" / "該隱"
 * `SCP-076 <scp-076.rst>`_ - "Able" / "亞伯"
 
