@@ -33,6 +33,7 @@ SCP 列表
 * `SCP-294 <scp-294.rst>`_ - The Coffee Machine / 咖啡機
 * `SCP-280 <scp-280.rst>`_ - Eyes in the Dark / 暗影中的獵手之眼
 * `SCP-348 <scp-348.rst>`_ - A gift from dad / 來自父親的禮物
+* `SCP-398 <scp-398.rst>`_ - The Greeting Hall / 走廊
 * `SCP-402 <scp-402.rst>`_ - Obsidian Absorber / 吸水黑曜石
 * `SCP-409 <scp-409.rst>`_ - Contagious Crystal / 感染水晶
 * `SCP-427 <scp-427.rst>`_ - Lovecraftian Locket / 洛夫克拉夫特墜飾
