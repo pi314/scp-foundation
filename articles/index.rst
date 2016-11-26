@@ -37,6 +37,7 @@ SCP 列表
 * `SCP-402 <scp-402.rst>`_ - Obsidian Absorber / 吸水黑曜石
 * `SCP-409 <scp-409.rst>`_ - Contagious Crystal / 感染水晶
 * `SCP-427 <scp-427.rst>`_ - Lovecraftian Locket / 洛夫克拉夫特墜飾
+* `SCP-432 <scp-432.rst>`_ - Cabinet Maze / 櫥櫃迷宮
 * SCP-447 - Ball of Green Slime / 綠色黏液球
 * `SCP-500 <scp-500.rst>`_ - Panacea / 萬能藥
 * `SCP-504 <scp-504.rst>`_ - Critical Tomatoes / 苛責的蕃茄
