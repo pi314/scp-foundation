@@ -21,6 +21,7 @@
 =================== ============
  Addendum            附件
  Additional          附加
+ Appendix            附錄
  Agent               特工
  Chamber             收容室
  Clearance           權限
@@ -41,3 +42,6 @@
  [DATA EXPUNGED]     〔資料刪除〕
  [REDACTED]          〔資料修改〕
 =================== ============
+
+* Appendix：額外資訊
+* Addendum：事後追加的資訊

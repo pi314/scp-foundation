@@ -20,6 +20,7 @@ SCP 列表
 * `SCP-079 <scp-079.rst>`_ - Old AI / 舊 AI
 * `SCP-087 <scp-087.rst>`_ - The Stairwell / 樓梯井
 * `SCP-096 <scp-096.rst>`_ - The "Shy Guy" / "羞澀的人"
+* `SCP-105 <scp-105.rst>`_ - "Iris" / "鳶娓"
 * `SCP-123 <scp-123.rst>`_ - Contained Miniature Black Hole / 微型可控黑洞
 * `SCP-143 <scp-143.rst>`_ - The Bladewood Grove / 刃木之森
 * `SCP-155 <scp-155.rst>`_ - Infinite Speed Computer / 無限速電腦
