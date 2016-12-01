@@ -53,7 +53,7 @@ SCP 列表
 * SCP-743 - A Chocolate Fountain / 巧克力噴泉
 * `SCP-807 <scp-807.rst>`_ - Heart Attack on a Plate / 心臟病盤子
 * `SCP-826 <scp-826.rst>`_ - Draws You into the Book / 書中巡禮
-* `SCP-903 <scp-903.rst>`_ - Tunnel of Infinite Possibility / 無盡可能的管道
+* `SCP-903 <scp-903.rst>`_ - Tunnel of Infinite Possibility / 無盡可能的隧道
 * `SCP-970 <scp-970.rst>`_ - The Recursive Room / 無窮遞迴的房間
 * SCP-914 - The Clockworks / 發條鐘
 * `SCP-1057 <scp-1057.rst>`_ - Absence of Shark / 此處無鯊魚
