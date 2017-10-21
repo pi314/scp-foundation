@@ -66,4 +66,4 @@ SCP 列表
 * Olympia Project / 奧林匹亞計畫
 
 * `SCP-____-J <scp-j.rst>`_ - Procrastinati / 拖延症
-* `SCP-1459-J <scp-1459-j.rst>` - X-Sponge / X 海綿
+* `SCP-1459-J <scp-1459-j.rst>`_ - X-Sponge / X 海綿
