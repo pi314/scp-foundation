@@ -12,6 +12,11 @@
 
 **描述** ：
 
+..  role:: raw-html(raw)
+    :format: html
+
+:raw-html:`<s>刪除線</s>`
+
 --------
 
 `SCP 列表 <index.rst>`_
