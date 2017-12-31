@@ -41,6 +41,7 @@
  Transcript          文字記錄
  [DATA EXPUNGED]     〔資料刪除〕
  [REDACTED]          〔資料修改〕
+ [EXPLETIVE]         〔咒罵〕
 =================== ============
 
 * Appendix：額外資訊

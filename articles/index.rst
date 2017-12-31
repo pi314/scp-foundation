@@ -60,6 +60,7 @@ SCP 列表
 * `SCP-970 <scp-970.rst>`_ - The Recursive Room / 無窮遞迴的房間
 * SCP-914 - The Clockworks / 發條鐘
 * `SCP-1057 <scp-1057.rst>`_ - Absence of Shark / 此處無鯊魚
+* `SCP-1162 <scp-1162.rst>`_ - A Hole in the Wall / 牆上的一個洞
 * `SCP-1371 <scp-1371.rst>`_ - Curiously Buoyant Amphibian / 好奇的漂浮蠑螈
 * SCP-1898 - Non-Euclidian Playsets / 非歐幾里得套裝玩具
 * SCP-1947 - Emission Sphere / 發出輻射的球體
