@@ -3,6 +3,8 @@ SCP 列表
 ========
 `關於 SCP 基金會 <about-the-scp-foundation.rst>`_
 
+`SCP 項目等級 <object-classes.rst>`_
+
 * `SCP-006 <scp-006.rst>`_ - Fountain of Youth / 青春之泉
 * `SCP-017 <scp-017.rst>`_ - Shadow Person / 影男
 * `SCP-018 <scp-018.rst>`_ - Super Ball / 超級彈力球
