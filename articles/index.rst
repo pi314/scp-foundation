@@ -66,7 +66,9 @@ SCP 列表
 * `SCP-1371 <scp-1371.rst>`_ - Curiously Buoyant Amphibian / 好奇的漂浮蠑螈
 * `SCP-1898 <scp-1898.rst>`_ - Non-Euclidian Playsets / 非歐幾里得套裝玩具
 * SCP-1947 - Emission Sphere / 發出輻射的球體
+* SCP-1983 - Doorway to Nowhere / 死境之門
 * `SCP-2950 <scp-2950.rst>`_ - Just A Chair / 只是張椅子
+* `SCP-8900-EX <scp-8900-ex.rst>`_ - Sky Blue Sky / 天，藍藍的天
 
 * Dr. Clef / Clef博士
 * Olympia Project / 奧林匹亞計畫
